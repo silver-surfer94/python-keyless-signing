@@ -6,5 +6,3 @@ WORKDIR /code
 COPY requirements.txt /code/
 RUN pip install -r requirements.txt
 COPY . /code/
-
-# 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
